@@ -16,7 +16,7 @@
 #import "MWWeatherMonitor.h"
 
 #import "JSON.h"
-
+ 
 @interface MWManager : NSObject {
     
     SBJsonParser *parser;
